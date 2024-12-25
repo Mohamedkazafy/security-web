@@ -22,7 +22,7 @@ const Services = () => {
   ];
 
   return (
-    <section className="services bg-gray-100 py-12 px-4">
+    <section className="services bg-green-300 py-12 px-4 text-white">
       <h2 className="text-3xl font-bold text-center mb-6">Advanced Security Systems You Can Trust</h2>
       <p className="text-center text-lg text-gray-600 mb-8">
         Protect your home and business with cutting-edge solutions designed for your peace of mind.

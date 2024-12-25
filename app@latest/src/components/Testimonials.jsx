@@ -20,7 +20,7 @@ const Testimonials = () => {
   ];
 
   return (
-    <section className="testimonials bg-gray-100 py-12 px-4">
+    <section className="testimonials bg-green-300 py-12 px-4 text-white">
       <h2 className="text-3xl font-bold text-center mb-6">Customer's Opinions</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {testimonials.map((testimonial, index) => (

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { IoShield } from "react-icons/io5";
 const NavBar = () => {
   return (
-    <header className="flex justify-between items-center px-8 py-4 shadow-md">
+    <header className="flex justify-between items-center px-8 py-4 shadow-md bg-green-200">
      <div className="text-lg font-bold flex gap-2 items-center">
             <IoShield size={24}/>
             Brimbolo

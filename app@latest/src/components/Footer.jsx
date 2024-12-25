@@ -5,7 +5,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 const Footer = () => {
   return (
-    <footer className="bg-gray-100 py-6 px-8">
+    <footer className="bg-green-200 py-6 px-8">
         <div className="flex justify-between items-center">
           <div className="text-lg font-bold flex gap-2 items-center">
             <IoShield/>
